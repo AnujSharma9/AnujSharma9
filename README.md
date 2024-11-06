@@ -7,9 +7,6 @@ I'm a software developer specializing in Java, Python, and C#. With a strong fou
 - **Databases:** MySQL, MongoDB
 - **Other Tools:** Docker, Git, Jenkins
 
-### 💼 Key Projects
-- **[Tourism Chat Room](https://github.com/AnujSharma9/tourism-chat-room)**: An interactive chat feature for a tourism website, allowing users to plan trips with friends.
-- **[Ice Cream Parlor App](https://github.com/AnujSharma9/ice-cream-parlor)**: An order management system for serving ice cream.
 
 ### 🏆 Achievements
 - **PG-DAC Certification** from Sunbeam Institute, specializing in Java, Spring Boot, and MERN Stack.
