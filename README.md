@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @AnujSharma9
-- 👀 I’m interested in Web Devloment 
-- 🌱 I’m currently learning Database(My Sql,MongoDB),html,css ,javaScript,java,mern,asp.NET And C++
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me Anujbharadwaj1011@gmail.com
+# Hi, I'm Anuj Sharma 👋
+I'm a software developer specializing in Java, Python, and C#. With a strong foundation in backend development, REST API design, and cloud solutions, I focus on building efficient, scalable applications.
+
+### 🔧 Skills & Technologies
+- **Languages:** Java, Python, C#, JavaScript
+- **Frameworks:** Spring Boot, ASP.NET, React
+- **Databases:** MySQL, MongoDB
+- **Other Tools:** Docker, Git, Jenkins
+
+### 💼 Key Projects
+- **[Tourism Chat Room](https://github.com/AnujSharma9/tourism-chat-room)**: An interactive chat feature for a tourism website, allowing users to plan trips with friends.
+- **[Ice Cream Parlor App](https://github.com/AnujSharma9/ice-cream-parlor)**: An order management system for serving ice cream.
+
+### 🏆 Achievements
+- **PG-DAC Certification** from Sunbeam Institute, specializing in Java, Spring Boot, and MERN Stack.
+- Completed **IBM Python Basics for Data Science** on EdX.
+
+### 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/anujsharma9](https://linkedin.com/in/anujsharma9)
+- **Email**: anujsharma@example.com
+
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujSharma9&show_icons=true&theme=radical)
+
+
 
 <!---
 AnujSharma9/AnujSharma9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
