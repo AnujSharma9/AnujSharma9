@@ -33,7 +33,7 @@ I'm a **Software Developer** passionate about building efficient, scalable, and 
 ## 📬 Connect With Me
 
 - [💼 LinkedIn](https://linkedin.com/in/anujsharma9)
-- 📧 Email: anujsharma@example.com
+- 📧 Email: anujbharadwaj101010@gmail.com
 
 ---
 
