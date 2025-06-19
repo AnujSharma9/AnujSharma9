@@ -24,16 +24,24 @@ I'm a **Software Developer** passionate about building efficient, scalable, and 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujSharma9&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujSharma9&show_icons=true&theme=radical&count_private=true)
+
+![Anuj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnujSharma9&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSharma9&layout=compact&theme=radical)
+
+</div>
 
 ---
 
 ## 📬 Connect With Me
 
 - [💼 LinkedIn](https://linkedin.com/in/anujsharma9)
-- 📧 Email: anujbharadwaj101010@gmail.com
+- 📧 Email: **anujbharadwaj101010@gmail.com**
 
 ---
 
@@ -41,4 +49,3 @@ I'm a **Software Developer** passionate about building efficient, scalable, and 
 AnujSharma9/AnujSharma9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
