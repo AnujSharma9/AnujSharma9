@@ -26,7 +26,7 @@ I'm a **Software Developer** passionate about building efficient, scalable, and 
 
 ## 📈 GitHub Stats
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujSharma9&show_icons=true&theme=radical)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujSharma9&show_icons=true&theme=radical&count_private=true)
 
 ---
 
